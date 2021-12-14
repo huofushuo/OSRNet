@@ -9,4 +9,4 @@ saliency maps of VT821, VT1000, and VT5000
 [Baidu Cloud](https://pan.baidu.com/s/1tUgYRQaCSMIuGzknKI3Ajw)   (OSRN)  
 [Google Drive](https://drive.google.com/file/d/1Q9S1_ULBmM9MgvuFPy_kF1EY3AsDpurG/view?usp=sharing)
 
-Evaluation Tool: https://github.com/PanoAsh/Evaluation-on-salient-object-detection
+All the methods are evaluated by the same Evaluation Tool: https://github.com/PanoAsh/Evaluation-on-salient-object-detection
