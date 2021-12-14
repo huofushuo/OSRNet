@@ -17,9 +17,9 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 torch.backends.cudnn.benchmark = True
 if __name__ == '__main__':
 
-    model_path='./model/11-18-2.pth'
+    model_path='./model/trained.pth'
 
-    test_datasets = [ '821']
+    test_datasets = [ '821','1000', '5000']
 
     for dataset in test_datasets:
         out_path = './results/trained/'
